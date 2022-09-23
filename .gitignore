@@ -1,0 +1,4 @@
+API/appsettings.json
+API/Data/Sqlite/store.db
+API/Data/Sqlite/store.db-shm
+API/Data/Sqlite/store.db-wal
